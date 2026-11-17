@@ -1,0 +1,19 @@
+# SwiftPM build output
+.build/
+.swiftpm/
+Package.resolved
+
+# App bundle assembled by `make bundle`
+dist/
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Local archives / snapshots
+*.zip
